@@ -1,2 +1,2 @@
 # moralech-umu-public
-ACT-CMS modules to be made available on the ACT-CMS portal
+Introductory Jupyter notebook for data analysis using Python in an Analytical Chemistry Laboratory
